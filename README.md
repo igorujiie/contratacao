@@ -3,7 +3,12 @@
 ## Sobre o projeto
 Trata-se de um desafio do modulo de POO II do curso da **B3** em parceria com a **ADA**, onde o objetivo é criar um projeto em Java com o tema da minha escolha utilizando os conceitos adquiridos durante o modulo.
 
-## Descrisção do Projeto
+## Descrição do Projeto
+Aplicação trata-se de um Sistema de compra e venda de Moeda estrangeira, o Sistema de primeiro momento, nasce com algumas moedas pré-definidas, porém o usuario pode adicionar mais moedas. Ao utilizar o Sistema, ele perguntará quais são as cotações de compra e venda, de moeda escolhida para fazer a cotação. O Sistema só faz a cotação com base no real, ou seja, transação entre moeda estrangeira Real.
+
+Exemplo de transação:
+
+- Eu, como Usuário, quero comprar $ 1.000,00 (mil dolares) na cotação de venda de R$ 5,48, quero saber quando devo pagar em reais. Caso, eu queira optar em uma operação em D2, ou seja, entrega da moeda em dois dias úteis, quando vou pagar em reais?
 
 ## Arquitetura do Projeto
 
