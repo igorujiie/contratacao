@@ -3,6 +3,9 @@
 ## Sobre o projeto
 Trata-se de um desafio do modulo de POO II do curso da **B3** em parceria com a **ADA**, onde o objetivo é criarum projeto em Java com o tema da minha escolha utilizando os conceitos adquiridos durante o modulo.
 
+## Descrisção do Projeto
+
+## Arquitetura do Projeto
 
 ## Tecnologias utilizadas
 <p align="center">
@@ -13,7 +16,7 @@ Trata-se de um desafio do modulo de POO II do curso da **B3** em parceria com a 
 </p>
 
 ## Repositorio com descrição do desafio
-- [Repositorio do Desafio](https://gist.github.com/rafarocha/e39981c9edfd522d304d5c51a3ef22f5)
+- [Repositorio do Desafio](https://gist.github.com/rafarocha/6bbc76e474a54c439966db449b5ed19a)
 
 ## Como executar o projeto pelo IntelliJ
 1. Abra o projeto no IntelliJ.
