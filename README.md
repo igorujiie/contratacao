@@ -1,7 +1,7 @@
 # GameJam-Jovo-da-Velha
 
 ## Sobre o projeto
-Trata-se de um desafio do modulo de POO II do curso da **B3** em parceria com a **ADA**, onde o objetivo é criarum projeto em Java com o tema da minha escolha utilizando os conceitos adquiridos durante o modulo.
+Trata-se de um desafio do modulo de POO II do curso da **B3** em parceria com a **ADA**, onde o objetivo é criar um projeto em Java com o tema da minha escolha utilizando os conceitos adquiridos durante o modulo.
 
 ## Descrisção do Projeto
 
