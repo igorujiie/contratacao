@@ -31,11 +31,11 @@ Exemplo de transação:
 ## Como executar o projeto pelo terminal
 1. Navegue a pasta onde o arquivo **MenuOperacaoController.java** está localizado e execute o seguite comando.
 ```cmd
-javac Main.java
+javac MenuOperacaoController.java
 ```
 2. Após a compilação do arquivo, execute o seguinte comando.
 ```cmd
-java Main
+java MenuOperacaoController
 ```
 3. E dessa forma poderaa utilizar o sistema de cambio.
 
