@@ -39,4 +39,8 @@ java MenuOperacaoController
 ```
 3. E dessa forma poderaa utilizar o sistema de cambio.
 
+## Atenção
+
+O programa nao esta completo, opções funcionais 1, 5 e 6
+
 
