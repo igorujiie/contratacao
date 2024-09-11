@@ -22,7 +22,6 @@ public class FuncionarioController {
         while (opcao != 6) {
             switch (opcao) {
                 case 1:
-
                     break;
                 case 2:
 
