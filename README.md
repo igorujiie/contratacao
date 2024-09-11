@@ -25,11 +25,11 @@ Exemplo de transação:
 
 ## Como executar o projeto pelo IntelliJ
 1. Abra o projeto no IntelliJ.
-2. Execute o arquivo **Main.java**.
+2. Execute o arquivo **MenuOperacaoController.java**.
 3. E dessa forma poderá utilizar o sistema de cambio.
 
 ## Como executar o projeto pelo terminal
-1. Navegue a pasta onde o arquivo **Main.java** está localizado e execute o seguite comando.
+1. Navegue a pasta onde o arquivo **MenuOperacaoController.java** está localizado e execute o seguite comando.
 ```cmd
 javac Main.java
 ```
