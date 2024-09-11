@@ -20,14 +20,18 @@ public class  OperacaoCambio {
         this.tipoDeOperacao = tipoDeOperacao;
     }
 
-    // Métodos para mudar o estado da operação
+    public void validar() {
+        if (valor <= 100) {
+            throw new IllegalArgumentException("O valor tem que ser maior que 100.");
+        }
+    }
+
     public void cancelarOperacao() {
         if (status == StatusOperacao.PENDENTE) {
             status = StatusOperacao.CANCELADA;
         }
     }
 
-    // Getters e Setters
     public StatusOperacao getStatus() {
         return status;
     }
@@ -37,10 +41,12 @@ public class  OperacaoCambio {
     }
 
     public TipoDeOperacao getTipoDeOperacao() {
+
         return tipoDeOperacao;
     }
 
     public void setTipoDeOperacao(TipoDeOperacao tipoDeOperacao) {
+
         this.tipoDeOperacao = tipoDeOperacao;
     }
 }

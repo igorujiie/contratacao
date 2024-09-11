@@ -1,4 +1,5 @@
 package contratacao.service;
 
-public class CotacaoService {
+public class ContaService {
+
 }
