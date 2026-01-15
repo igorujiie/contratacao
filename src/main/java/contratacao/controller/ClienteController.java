@@ -37,6 +37,7 @@ public class ClienteController {
                 default:
                     System.out.println("Opção inválida");
                     break;
+
             }
             mostrarMenuCliente();
             opcao = lerOpcao();
